@@ -1,8 +1,4 @@
 # Knee Osteoarthritis Analysis with X-ray Images using Deep Convolutional Neural Networks
-
-This code repository is the final project of the Complex Data Mining course at
-Unicamp (MDC013).
-
 ## Knee Osteoarthritis
 
 [Knee osteoarthritis](https://en.wikipedia.org/wiki/Knee_arthritis) is a
